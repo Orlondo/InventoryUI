@@ -1,0 +1,10 @@
+{
+  "name": "inventory-ui",
+  "version": "1.0.0",
+  "description": "Inventory UI for store.",
+  "main": "index.js",
+  "repository": "https://github.com/Orlondo/InventoryUI.git",
+  "author": "Orlondo Rue",
+  "license": "MIT",
+  "private": false
+}
